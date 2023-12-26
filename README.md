@@ -1,8 +1,9 @@
 # Defatul Reactjs folder structure
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ - This Repo is a alternative repo for create-react-app package Enjoy it 😅
 
-## How use This Repo
+## How use This Repo 📑
 
 use terminal in VSCode and use git clone URL
 
