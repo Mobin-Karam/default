@@ -10,6 +10,16 @@ use terminal in VSCode and use git clone URL
 git clone https://github.com/Mobin-Karam/default.git
 ```
 
+and When you clone Repo and resive folder use npm install to install neccessry packages from packege.json file :
+```
+npm install
+```
+
+after all of this write npm start in terminal and start write your App practice code ;
+```
+npm start
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
