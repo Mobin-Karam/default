@@ -9,7 +9,7 @@ function App() {
       <div className="">
         <h1 className="">Default Reactjs Repo for Practice</h1>
         <p className="">My Personal Website : 👇👇👇</p>
-        <a href="https://mobinkaram.ir" className="">MobinKaram.ir</a>
+        <a href="https://mobinkaram.ir" rel='noreferrer' target='_blank' className="">MobinKaram.ir</a>
       </div>
     </div>
   );
