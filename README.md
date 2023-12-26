@@ -11,7 +11,9 @@ use terminal in VSCode and use git clone URL
 git clone https://github.com/Mobin-Karam/default.git
 ```
 After download change directory wih:
-`cd default`
+```
+cd default
+```
 
 and When you clone Repo and resive folder use npm install to install neccessry packages from packege.json file :
 ```
