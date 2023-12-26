@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How use This Repo
+
+use terminal in VSCode and use git clone URL
+
+```
+git clone https://github.com/Mobin-Karam/default.git
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
